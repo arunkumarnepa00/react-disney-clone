@@ -1,0 +1,15 @@
+.movieCard{
+    border-radius:'5px';
+}
+.movieCard:hover{
+    box-shadow: 1px 1px 3px #5DA3FA;
+    transform:scale(1.1);
+    border-color: #242B2E ;
+    border-width:'20px';
+}
+/* #242B2E */
+img{
+max-width:100%;
+max-height:100%;
+/* border-radius:'10px'; */
+}

@@ -1,0 +1,32 @@
+.menuItem a{
+    /* margin: 'auto'; */
+    text-decoration: none;
+    color:#ffffff;
+}
+
+.menuItem a:hover{
+    text-decoration:underline;
+}
+
+@media only screen and (max-width:768px){
+    .menuItem{
+        display:none;
+    }
+}
+
+.login{
+color:#ffffff;
+}
+.login:hover{
+color:black;
+}
+
+
+/* .signout{
+display: none;
+} */
+
+/* .profile:hover .signout{
+    display:block;
+    z-index: 2;
+} */
